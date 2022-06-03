@@ -68,6 +68,6 @@ public class Lab3ForStd {
 			}
 		}
 		System.out.println(" ");
-
+//OK
 	}
 }
